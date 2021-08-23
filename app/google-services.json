@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "103259823752",
+    "project_id": "ggsignin-942e5",
+    "storage_bucket": "ggsignin-942e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103259823752:android:98d3aed9402fe509d6893d",
+        "android_client_info": {
+          "package_name": "com.smartherd.ggsignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103259823752-sd4t62t4d3ph8grc3o6gc34rkn5urd5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEI6L28DedtEjFsmc7M-dHmtv3LfLXHt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103259823752-sd4t62t4d3ph8grc3o6gc34rkn5urd5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
